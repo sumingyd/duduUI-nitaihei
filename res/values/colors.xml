@@ -82,7 +82,7 @@
     <color name="theme_widget_btphone_lxr_rv_time">#ffced9f1</color>
     <color name="theme_widget_btphone_lxr_syn">#ffffffff</color>
     <color name="theme_widget_btphone_lxr_top_normal">#ffced9f1</color>
-    <color name="theme_widget_btphone_lxr_top_select">#ffced9f1</color>
+    <color name="theme_widget_btphone_lxr_top_select">#ff4c88ef</color>
     <color name="theme_widget_dudu_lukuang_bg">#ffffffff</color>
     <color name="theme_widget_dudu_lukuang_c1">#ff4cb6f6</color>
     <color name="theme_widget_dudu_lukuang_c2">#ff8ee0b0</color>
