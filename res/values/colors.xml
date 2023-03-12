@@ -186,5 +186,4 @@
     <color name="theme_widget_weather_temp_minmax">#ffced9f1</color>
     <color name="theme_widget_weather_weather">#ff4c88ef</color>
     <color name="transparent">#002c343b</color>
-    <color name="theme_launcher_dlbg">#ffced9f1</color>
 </resources>
