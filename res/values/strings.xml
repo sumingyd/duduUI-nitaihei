@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">拟态黑</string>
+    <string name="theme_author">宿命</string>
+    <string name="theme_dudu_amap_skin_style">drak</string>
+    <string name="theme_dudu_amap_skin_style_drak">drak</string>
+    <string name="theme_item_music_controller_padding">false</string>
+    <string name="theme_item_nav_controller_padding">false</string>
+    <string name="theme_item_persion_controller_padding">false</string>
+    <string name="theme_launcher_full_bg">false</string>
+    <string name="theme_name">拟态黑</string>
+    <string name="theme_widget_apps_icon_alpha">1</string>
+    <string name="theme_widget_apps_icon_alpha_drak">0.7</string>
+    <string name="theme_widget_dudu_nav_win">false</string>
+    <string name="theme_widget_full_bg">false</string>
+    <string name="theme_widget_full_front">false</string>
+    <string name="theme_widget_music_cover_bg_alpha">0.2</string>
+    <string name="theme_widget_music_cover_bg_alpha_drak">0.1</string>
+    <string name="theme_widget_music_cover_bg_open">false</string>
+    <string name="theme_widget_nav_hide_carnum">false</string>
+    <string name="theme_widget_radius">10</string>
+</resources>
